@@ -1,6 +1,7 @@
 name = 'personal-website'
 compatibility_date = "2023-01-01"
 pages_build_output_dir = ".output/public"
+account_id = "4bd2cc20099eda9ee1dc41983fa30771"
 
 [pages.dev]
 # You can add dev specific configuration here
